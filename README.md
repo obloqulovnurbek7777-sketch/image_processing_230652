@@ -19,11 +19,18 @@ ProjectName/
 ├── presentation/            # PowerPoint slides for project defense
 └── documentation/           # API and usage guides
 
-📊 Dataset Overview
-The GTSRB dataset consists of 43 distinct classes of traffic signs, ranging from speed limits to warning signs.
-Train samples: 31,367 images
-Validation samples: 7,842 images
-Image dimensions: Resized to 32x32x3 pixels.
+---
+## 📊 Dataset Overview
+The project utilizes the official **German Traffic Sign Recognition Benchmark (GTSRB)** dataset hosted on Kaggle. You can access and download the dataset directly from here:
+
+🔗 **[Kaggle GTSRB Dataset Link](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)**
+
+* **Total Classes:** 43 distinct categories of traffic signs (speed limits, warnings, prohibitions, etc.)
+* **Train samples:** 31,367 images
+* **Validation samples:** 7,842 images
+* **Image dimensions:** Resized and normalized to 32x32x3 pixels.
+
+---
 
 🛠️ Model Architecture
 The core of this system is a custom Deep Convolutional Neural Network (CNN) optimized with robust regularization layers to eliminate overfitting:
