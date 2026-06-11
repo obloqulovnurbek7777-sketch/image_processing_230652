@@ -1,9 +1,13 @@
-🚦 German Traffic Sign Recognition Benchmark (GTSRB) using CNN
-This repository contains a high-performance Deep Learning pipeline built with TensorFlow 2.x and Keras to classify traffic signs from the German Traffic Sign Recognition Benchmark (GTSRB) dataset. The final model achieves an outstanding verification accuracy of 99.94%.
-📂 Project Structure
-Following standard machine learning repository structures, the project is organized as follows:
-Plaintext
+# 🚦 German Traffic Sign Recognition Benchmark (GTSRB) using CNN
 
+This repository contains a high-performance Deep Learning pipeline built with **TensorFlow 2.x** and **Keras** to classify traffic signs from the German Traffic Sign Recognition Benchmark (GTSRB) dataset. The final model achieves an outstanding verification accuracy of **99.94%**.
+
+---
+
+## 📂 Project Structure
+Following standard machine learning repository structures, the project is organized as follows:
+
+```text
 ProjectName/
 ├── README.md
 ├── requirements.txt
