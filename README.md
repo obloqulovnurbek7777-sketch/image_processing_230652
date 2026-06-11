@@ -59,7 +59,7 @@ Sample Predictions	Confusion Matrix
 💻 Installation & Usage
 1. Clone the repository
 Bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
+git clone https://github.com/obloqulovnurbek7777-sketch/image_processing_952824.git
 cd YOUR_REPOSITORY_NAME
 2. Install dependencies
 Bash
